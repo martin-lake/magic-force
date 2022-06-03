@@ -1,0 +1,11 @@
+[package]
+name = "magic-force"
+version = "0.1.0"
+authors = ["Martin Lake <martinlake@protonmail.ch>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rust-guile = "0.1.6"
+
